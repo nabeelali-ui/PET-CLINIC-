@@ -1,0 +1,178 @@
+*
+{   font-family: 'Georama', sans-serif;
+}
+
+{
+    margin:0;
+        padding:0;
+}
+    body{
+        background-image:url(https://crispywolf94.qoom.space/TrickOrTreat/s.jpg);
+        background-size:cover;
+        background-position:cover;
+        overflow: hidden;
+        text-align:center;
+}
+
+header{
+ text-align:center;
+    font-size: 50;
+    height: 20vh;
+    text-transform: uppercase;
+    font-family:inherit;
+    visibility: visible;
+    font-size:100%;
+    justify-content:left;
+    align-items:left;
+    align-content:left;
+    color:orangered;
+    width: 100%;
+    margin-top:20vh;
+    
+}
+nav{
+
+  background-color:coral;
+}
+header a{
+    color:orangered;
+    text-decoration:none;
+    padding:10px 30px;
+    margin:2px;
+
+    
+}
+h1{
+	margin:30px;
+	text-decoration: none;
+
+}
+
+
+header h1{
+  text-align: center;
+  margin: 10px;
+  font-size: 50px;
+  margin-left:60px;
+  margin-right: 200px;
+}
+
+nav{
+  margin: 0%;
+  background-color:coral;
+  
+}
+
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align:center;
+}
+
+li{
+  display: inline;
+}
+
+li a{
+  text-decoration: none;
+  text-align:center;
+  color:maroon;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  padding: 15px;
+  font-size: 1.3em;
+  background-color:rgba(255, 255, 255, 0.02);
+  border-radius:5px ;
+}
+
+li a:hover{
+  background-color:salmon;
+}
+
+
+.
+
+#content{
+        margin-top: 170px;
+}
+
+#text1{
+        float: left;
+        width: 50%;
+}
+
+#ttext1{
+        float: left;
+        width: 50%;
+        font-size: 1.4em;
+       
+
+}
+
+
+#ttext2{
+        float: left;
+        width: 50%;
+        font-size: 1.4em;
+        text-align: right;
+        
+}
+
+#img2{
+       float: left;
+        width: 50%;
+        margin: auto;
+        text-align: center; 
+}
+
+#text2{
+      float: left;
+        width: 50%;
+
+}
+
+#text1 p, #text2 p{
+        padding:10px;
+}
+
+#ttext1 p, #ttext2 p{
+        padding:10px;
+        font-size: 20px;
+}
+
+#ttext1 h1, #ttext2 h1{
+        padding:10px;
+        font-size: 40px;
+}
+
+.none{
+        clear: both;
+}
+
+footer{
+        text-align:center;
+     position:relative;
+        bottom:0;
+        top:0;
+}
+
+#intro-pic{
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+}
+
+h1, h2, h3, h4, h5, h6{
+        font-family: 'Red Serifs', fantasy;
+        colour:orange;
+}
+
+#pic-container{
+        float: right;
+        width: 50%;      
+}
